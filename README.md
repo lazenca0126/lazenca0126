@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This place is for SSAFY!! 
+I'm use this page for SSAFY.
+
+
 <!--
 **lazenca0126/lazenca0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
