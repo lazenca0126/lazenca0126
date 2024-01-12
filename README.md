@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-This place is for SSAFY!! 
-I'm use this page for SSAFY.
+Welcome to my place. 
+I'm using this page for my own.
+
+
 
 
 <!--
